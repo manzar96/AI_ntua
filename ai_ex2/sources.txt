@@ -1,0 +1,12 @@
+./Tuple.java
+./Triple.java
+./KML.java
+./Taxis.java
+./Triplets.java
+./Astar.java
+./Client.java
+./Quatret.java
+./Neighbor.java
+./TaxiBeat.java
+./Mapping.java
+./Quatretcompare.java

@@ -1,0 +1,21 @@
+GOAL FOUND! Taxi:120
+Distance to goal: 3.2547647069996115
+
+GOAL FOUND! Taxi:160
+Distance to goal: 3.8364228462771655
+
+GOAL FOUND! Taxi:140
+Distance to goal: 6.91152680170793
+
+GOAL FOUND! Taxi:150
+Distance to goal: 2.400654573948636
+
+GOAL FOUND! Taxi:190
+Distance to goal: 6.188246078277956
+
+GOAL FOUND! Taxi:200
+Distance to goal: 7.8611743350096805
+
+GOAL FOUND! Taxi:150
+Distance to goal: 6.348317201041391
+

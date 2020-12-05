@@ -1,0 +1,8 @@
+X,Y,id,available,capacity,languages,rating,long_distance,type	description
+23.734874,38.029877,100,yes,2-4,greek|german,4.5,yes,subcompact
+23.748221,38.036223,110,no,1-4,greek,9.0,yes,large
+23.724382,38.038082,120,yes,1-4,english,8.2,yes,submocompact
+23.704008,37.965933,130,no,1-3,greek,8.3,yes,large
+23.729189,37.988699,140,yes,1-5,greek|english,7.9,yes,large
+23.773896,38.033011,150,yes,1-5,greek|english,9.0,yes,large
+23.739446,38.014815,160,no,1-3,greek,7.4,yes,subcompact
