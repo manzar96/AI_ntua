@@ -15,26 +15,26 @@ Below you can find an example usage of the current application . In order to run
 
 ### Application's execution example :
 
-![alt text](https://github.com/manzar96/ai_ntua/blob/master/images/runt.jpg)
+![alt text](https://github.com/manzar96/ai_ntua/blob/main/images/runt.jpg)
 
 ### Application's time efficiency :
 
-![alt text](https://github.com/manzar96/ai_ntua/blob/master/images/time.jpg)
+![alt text](https://github.com/manzar96/ai_ntua/blob/main/images/time.jpg)
 
 ### Application's outputs examples :
 
 **Example 1 :**
 
-![alt text](https://github.com/manzar96/ai_ntua/blob/master/images/ex1.jpg)
+![alt text](https://github.com/manzar96/ai_ntua/blob/main/images/ex1.jpg)
 
 
 **Example 2 :**
 
-![alt text](https://github.com/manzar96/ai_ntua/images/ex2.png)
+![alt text](https://github.com/manzar96/ai_ntua/blob/main/images/ex2.png)
 
 
 Finally we implented an A* alternative at which the algorithm finds all the closest paths . In order to implement this alternation of A* we changed the algorithm in a way that it does not stop if it finds the first sortest path. Moreover we used doubles in order to calculate distances . This selection made our calculations too acurate . As a result , we had paths with a difference in distance of a meter or less . In order to solve this problem we accepted not only the closest distance but also distances that are around 5 % greater than the sortest distance (5 % assumption is made with respect to the average distance , in Athens it is about 3-5 kilometers).
 
 **Image of alternative sortest routes :**
 
-![alt text](https://github.com/manzar96/ai_ntua/blob/master/images/p1.png)
+![alt text](https://github.com/manzar96/ai_ntua/blob/main/images/p1.png)
